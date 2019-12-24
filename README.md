@@ -37,3 +37,7 @@ Tree.py
 -> Tree Data Structure and it's implementation
 -> Tree  traversal, using multiple techniques(like Preorder,postorder,Inorder) 
 -> Creation Binary Search Tree(BST) 
+
+Practice.py
+-----------
+-> Solution of diffreent problems form Coding Kit(Hacker's Rank  etc.)
